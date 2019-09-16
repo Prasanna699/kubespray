@@ -19,7 +19,7 @@ To deploy the cluster you can use :
 
 ### Ansible
 
-#### Usage
+#### Usage1
 
     # Install dependencies from ``requirements.txt``
     sudo pip install -r requirements.txt
